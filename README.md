@@ -1,6 +1,5 @@
-# hello-world
-Hello
+## hello-world
 
-Please read this
+**About me:**
 
-Thank you.
+Compiled from organic materials into a living being. Now on GitHub.
