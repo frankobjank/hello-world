@@ -2,6 +2,10 @@ print("Hello")
 
 print("This is version 1")
 
-list1 = [1, 2, 3]
+list2 = [4, 5, 6]
 
-list2 = [4, 5, 6] #moved up list2 in the test branch
+list1 = [1, 2, 3] # switch location of list1 and list2
+
+test_list4 = [10, 11, 12]
+
+# new_line
