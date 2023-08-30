@@ -3,7 +3,7 @@ print("Hello")
 print("This is version 1")
 list5 = [13, 14, 15] # list on main
 list7 = [16, 17, 18] # list on test
-def functino():
+def functino2():
     print("Why")
     
 
