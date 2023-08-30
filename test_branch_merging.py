@@ -1,8 +1,8 @@
 # merging to main branch
 print("Hello")
 print("This is version 1")
+list7 = [16, 17, 30, 30] # list on test
 list5 = [13, 14, 15] # list on main
-list7 = [16, 17, 18] # list on test
 def functino():
     print("Why")
     
